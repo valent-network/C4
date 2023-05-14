@@ -1,0 +1,1219 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "lastModifiedDate" : "2023-05-14T23:37:56Z",
+  "lastModifiedAgent" : "structurizr-javascript",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIgIkEgdXNlciBvZiBteSBzb2Z0d2FyZSBzeXN0ZW0uIgogICAgICAgIAogICAgICAgIGFwcFN0b3JlID0gc29mdHdhcmVTeXN0ZW0gIkFwcGxlIEFwcFN0b3JlIiAiIiAiRGlzdHJpYnV0aW9uIgogICAgICAgIGdvb2dsZVBsYXkgPSBzb2Z0d2FyZVN5c3RlbSAiR29vZ2xlIFBsYXkiICIiICJEaXN0cmlidXRpb24iCiAgICAgICAgYXBwQ2VudGVyID0gc29mdHdhcmVTeXN0ZW0gIkFwcCBDZW50ZXIiICIiICJEaXN0cmlidXRpb24iCiAgICAgICAgCiAgICAgICAgdGhyaWRQYXJ0eUFkc1Byb3ZpZGVycyA9IHNvZnR3YXJlU3lzdGVtICIzcmQtcGFydHkiICIiICJTdXBwb3J0IgogICAgICAgIAogICAgICAgICMgVE9ETzogK3NlbnRyeQogICAgICAgIHR1cmJvU01TID0gc29mdHdhcmVTeXN0ZW0gIlNNUyBQcm92aWRlciIgIlR1cmJvU01TIiAiRXh0ZXJuYWwiCiAgICAgICAgczMgPSBzb2Z0d2FyZVN5c3RlbSAiUzMiICJEaWdpdGFsIE9jZWFuIFNwYWNlcyIgIkRhdGFiYXNlIgogICAgICAgIAogICAgICAgIGVudGVycHJpc2UgewogICAgICAgICAgICByZWNhcmlvID0gc29mdHdhcmVTeXN0ZW0gInJlY2FyLmlvIiB7CiAgICAgICAgICAgICAgICBmZXJydW0gPSBjb250YWluZXIgIkZlcnJ1bSIgewogICAgICAgICAgICAgICAgICAgIGFuZHJvaWRCdWlsZCA9IGNvbXBvbmVudCAiQW5kcm9pZCBkaXN0IgogICAgICAgICAgICAgICAgICAgIGlvc0J1aWxkID0gY29tcG9uZW50ICJpT1MgZGlzdCIKICAgICAgICAgICAgICAgICAgICBob3RVcGRhdGVzID0gY29tcG9uZW50ICJKUyB1cGRhdGVzIgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY2FyYm8gPSBjb250YWluZXIgIkNhcmJvIiB7CiAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50ICJTaWRla2lxIFdvcmtlcnMiCiAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50ICJDbG9ja3dvcmsgU2NoZWR1bGVyIgogICAgICAgICAgICAgICAgICAgIGNhcmJvQVBJID0gY29tcG9uZW50ICJQdW1hIFdlYiBTZXJ2ZXIiCiAgICAgICAgICAgICAgICAgICAgcnB1c2ggPSBjb21wb25lbnQgIlJQdXNoIFB1c2ggTm90aWZpY2F0aW9ucyBTZW5kZXIiCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBib3JheCA9IGNvbnRhaW5lciAiQm9yYXgiIHsKICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgIlNpZGVraXEgV29ya2VycyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcG9zdGdyZXMgPSBjb250YWluZXIgIlBvc3RncmVTUUwiICIiICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudCAiRGF0YWJhc2UgU2VydmVyIgogICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudCAiQ3JvbiIKICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgIkJhY2t1cCBTY3JpcHQiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZWRpcyA9IGNvbnRhaW5lciAiUmVkaXMiICIiICJEYXRhYmFzZSIKICAgICAgICAgICAgICAgIHJlZGlzR3JhcGggPSBjb250YWluZXIgIlJlZGlzR3JhcGgiICIiICJEYXRhYmFzZSIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgCiAgICAgICAgfQoKICAgICAgICB1c2VyIC0+IGZlcnJ1bSAiVXNlcyIKICAgICAgICAKICAgICAgICBmZXJydW0gLT4gY2FyYm8gIlJlcXVlc3RzIEFQSSIKICAgICAgICBhbmRyb2lkQnVpbGQgLT4gY2FyYm9BUEkgIlJlcXVlc3RzIEFQSSIKICAgICAgICBpb3NCdWlsZCAtPiBjYXJib0FQSSAiUmVxdWVzdHMgQVBJIgogICAgICAgIGFuZHJvaWRCdWlsZCAtPiBnb29nbGVQbGF5ICJEaXN0cmlidXRlZCB0byIKICAgICAgICBpb3NCdWlsZCAtPiBhcHBTdG9yZSAiRGlzdHJpYnV0ZWQgdG8iCiAgICAgICAgaG90VXBkYXRlcyAtPiBhcHBDZW50ZXIgIkRpc3RyaWJ1dGVkIHRvIgogICAgICAgIAogICAgICAgIGJvcmF4IC0+IHJlZGlzICJQb3B1bGF0ZXMgQWRzIgogICAgICAgIGJvcmF4IC0+IHRocmlkUGFydHlBZHNQcm92aWRlcnMgIkNvbGxlY3RzIEFkcyIKICAgICAgICAKICAgICAgICAjIFRPRE86ICtzZW50cnkKICAgICAgICBjYXJibyAtPiBzMyAiU2F2ZXMgVXNlciBBdmF0YXJzIgogICAgICAgIGNhcmJvIC0+IHBvc3RncmVzICJTdG9yZXMgRGF0YSIKICAgICAgICBjYXJibyAtPiByZWRpcyAiU2lkZWtpcSIKICAgICAgICBjYXJibyAtPiByZWRpc0dyYXBoICJVc2VyQ29ubmVjdGlvbnMgZGF0YSIKICAgICAgICBjYXJibyAtPiB0dXJib1NNUyAiQXV0aCBPVFAiCiAgICAgICAgcnB1c2ggLT4gYXBwU3RvcmUgIlNlbmRzIFB1c2ggTm90aWZpY2F0aW9ucyIKICAgICAgICBycHVzaCAtPiBnb29nbGVQbGF5ICJTZW5kcyBQdXNoIE5vdGlmaWNhdGlvbnMiCiAgICAgICAgCiAgICAgICAgYXBwU3RvcmUgLT4gdXNlciAiUHVzaCBOb3RpZmljYXRpb25zIgogICAgICAgIGdvb2dsZVBsYXkgLT4gdXNlciAiUHVzaCBOb3RpZmljYXRpb25zIgogICAgICAgIGFwcENlbnRlciAtPiB1c2VyICJEZWxpdmVycyBKUyB1cGRhdGVzIgogICAgICAgIHR1cmJvU01TIC0+IHVzZXIgIkF1dGggT1RQIgogICAgICAgIAogICAgICAgIAogICAgfQoKICAgIHZpZXdzIHsKCiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiU29mdHdhcmUgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMxMTY4YmQKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJTdXBwb3J0IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICNhYWFhYWEKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJEaXN0cmlidXRpb24iIHsKICAgICAgICAgICAgICAgIHNoYXBlIEZvbGRlcgogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMDA5MzViCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBwZXJzb24KICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzA4NDI3YgogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIAp9Cg=="
+  },
+  "configuration" : { },
+  "model" : {
+    "people" : [ {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "user"
+      },
+      "name" : "User",
+      "description" : "A user of my software system.",
+      "relationships" : [ {
+        "id" : "27",
+        "sourceId" : "1",
+        "destinationId" : "8",
+        "description" : "Uses",
+        "linkedRelationshipId" : "26"
+      }, {
+        "id" : "26",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "9",
+        "description" : "Uses"
+      } ],
+      "location" : "Unspecified"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "8",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "recario"
+      },
+      "name" : "recar.io",
+      "relationships" : [ {
+        "id" : "42",
+        "sourceId" : "8",
+        "destinationId" : "4",
+        "description" : "Distributed to",
+        "linkedRelationshipId" : "40"
+      }, {
+        "id" : "52",
+        "sourceId" : "8",
+        "destinationId" : "6",
+        "description" : "Auth OTP",
+        "linkedRelationshipId" : "51"
+      }, {
+        "id" : "47",
+        "sourceId" : "8",
+        "destinationId" : "7",
+        "description" : "Saves User Avatars",
+        "linkedRelationshipId" : "46"
+      }, {
+        "id" : "36",
+        "sourceId" : "8",
+        "destinationId" : "3",
+        "description" : "Distributed to",
+        "linkedRelationshipId" : "34"
+      }, {
+        "id" : "39",
+        "sourceId" : "8",
+        "destinationId" : "2",
+        "description" : "Distributed to",
+        "linkedRelationshipId" : "37"
+      }, {
+        "id" : "45",
+        "sourceId" : "8",
+        "destinationId" : "5",
+        "description" : "Collects Ads",
+        "linkedRelationshipId" : "44"
+      } ],
+      "location" : "Internal",
+      "containers" : [ {
+        "id" : "25",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "redisgraph"
+        },
+        "name" : "RedisGraph",
+        "technology" : "Database",
+        "documentation" : { }
+      }, {
+        "id" : "9",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "ferrum"
+        },
+        "name" : "Ferrum",
+        "relationships" : [ {
+          "id" : "38",
+          "sourceId" : "9",
+          "destinationId" : "2",
+          "description" : "Distributed to",
+          "linkedRelationshipId" : "37"
+        }, {
+          "id" : "31",
+          "sourceId" : "9",
+          "destinationId" : "16",
+          "description" : "Requests API",
+          "linkedRelationshipId" : "29"
+        }, {
+          "id" : "35",
+          "sourceId" : "9",
+          "destinationId" : "3",
+          "description" : "Distributed to",
+          "linkedRelationshipId" : "34"
+        }, {
+          "id" : "28",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "13",
+          "description" : "Requests API"
+        }, {
+          "id" : "41",
+          "sourceId" : "9",
+          "destinationId" : "4",
+          "description" : "Distributed to",
+          "linkedRelationshipId" : "40"
+        } ],
+        "components" : [ {
+          "id" : "10",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "androidbuild"
+          },
+          "name" : "Android dist",
+          "relationships" : [ {
+            "id" : "34",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "3",
+            "description" : "Distributed to"
+          }, {
+            "id" : "29",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "16",
+            "description" : "Requests API"
+          }, {
+            "id" : "30",
+            "sourceId" : "10",
+            "destinationId" : "13",
+            "description" : "Requests API",
+            "linkedRelationshipId" : "29"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "12",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "hotupdates"
+          },
+          "name" : "JS updates",
+          "relationships" : [ {
+            "id" : "40",
+            "tags" : "Relationship",
+            "sourceId" : "12",
+            "destinationId" : "4",
+            "description" : "Distributed to"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "11",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "iosbuild"
+          },
+          "name" : "iOS dist",
+          "relationships" : [ {
+            "id" : "33",
+            "sourceId" : "11",
+            "destinationId" : "13",
+            "description" : "Requests API",
+            "linkedRelationshipId" : "32"
+          }, {
+            "id" : "37",
+            "tags" : "Relationship",
+            "sourceId" : "11",
+            "destinationId" : "2",
+            "description" : "Distributed to"
+          }, {
+            "id" : "32",
+            "tags" : "Relationship",
+            "sourceId" : "11",
+            "destinationId" : "16",
+            "description" : "Requests API"
+          } ],
+          "documentation" : { }
+        } ],
+        "documentation" : { }
+      }, {
+        "id" : "13",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "carbo"
+        },
+        "name" : "Carbo",
+        "relationships" : [ {
+          "id" : "56",
+          "sourceId" : "13",
+          "destinationId" : "3",
+          "description" : "Sends Push Notifications",
+          "linkedRelationshipId" : "55"
+        }, {
+          "id" : "46",
+          "tags" : "Relationship",
+          "sourceId" : "13",
+          "destinationId" : "7",
+          "description" : "Saves User Avatars"
+        }, {
+          "id" : "54",
+          "sourceId" : "13",
+          "destinationId" : "2",
+          "description" : "Sends Push Notifications",
+          "linkedRelationshipId" : "53"
+        }, {
+          "id" : "51",
+          "tags" : "Relationship",
+          "sourceId" : "13",
+          "destinationId" : "6",
+          "description" : "Auth OTP"
+        }, {
+          "id" : "50",
+          "tags" : "Relationship",
+          "sourceId" : "13",
+          "destinationId" : "25",
+          "description" : "UserConnections data"
+        }, {
+          "id" : "48",
+          "tags" : "Relationship",
+          "sourceId" : "13",
+          "destinationId" : "20",
+          "description" : "Stores Data"
+        }, {
+          "id" : "49",
+          "tags" : "Relationship",
+          "sourceId" : "13",
+          "destinationId" : "24",
+          "description" : "Sidekiq"
+        } ],
+        "components" : [ {
+          "id" : "17",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "rpush"
+          },
+          "name" : "RPush Push Notifications Sender",
+          "relationships" : [ {
+            "id" : "53",
+            "tags" : "Relationship",
+            "sourceId" : "17",
+            "destinationId" : "2",
+            "description" : "Sends Push Notifications"
+          }, {
+            "id" : "55",
+            "tags" : "Relationship",
+            "sourceId" : "17",
+            "destinationId" : "3",
+            "description" : "Sends Push Notifications"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "14",
+          "tags" : "Element,Component",
+          "name" : "Sidekiq Workers",
+          "documentation" : { }
+        }, {
+          "id" : "15",
+          "tags" : "Element,Component",
+          "name" : "Clockwork Scheduler",
+          "documentation" : { }
+        }, {
+          "id" : "16",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "carboapi"
+          },
+          "name" : "Puma Web Server",
+          "documentation" : { }
+        } ],
+        "documentation" : { }
+      }, {
+        "id" : "24",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "redis"
+        },
+        "name" : "Redis",
+        "technology" : "Database",
+        "documentation" : { }
+      }, {
+        "id" : "18",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "borax"
+        },
+        "name" : "Borax",
+        "relationships" : [ {
+          "id" : "44",
+          "tags" : "Relationship",
+          "sourceId" : "18",
+          "destinationId" : "5",
+          "description" : "Collects Ads"
+        }, {
+          "id" : "43",
+          "tags" : "Relationship",
+          "sourceId" : "18",
+          "destinationId" : "24",
+          "description" : "Populates Ads"
+        } ],
+        "components" : [ {
+          "id" : "19",
+          "tags" : "Element,Component",
+          "name" : "Sidekiq Workers",
+          "documentation" : { }
+        } ],
+        "documentation" : { }
+      }, {
+        "id" : "20",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "postgres"
+        },
+        "name" : "PostgreSQL",
+        "technology" : "Database",
+        "components" : [ {
+          "id" : "21",
+          "tags" : "Element,Component",
+          "name" : "Database Server",
+          "documentation" : { }
+        }, {
+          "id" : "22",
+          "tags" : "Element,Component",
+          "name" : "Cron",
+          "documentation" : { }
+        }, {
+          "id" : "23",
+          "tags" : "Element,Component",
+          "name" : "Backup Script",
+          "documentation" : { }
+        } ],
+        "documentation" : { }
+      } ],
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,Support",
+      "properties" : {
+        "structurizr.dsl.identifier" : "thridpartyadsproviders"
+      },
+      "name" : "3rd-party",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "7",
+      "tags" : "Element,Software System,Database",
+      "properties" : {
+        "structurizr.dsl.identifier" : "s3"
+      },
+      "name" : "S3",
+      "description" : "Digital Ocean Spaces",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "6",
+      "tags" : "Element,Software System,External",
+      "properties" : {
+        "structurizr.dsl.identifier" : "turbosms"
+      },
+      "name" : "SMS Provider",
+      "description" : "TurboSMS",
+      "relationships" : [ {
+        "id" : "60",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "1",
+        "description" : "Auth OTP"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System,Distribution",
+      "properties" : {
+        "structurizr.dsl.identifier" : "googleplay"
+      },
+      "name" : "Google Play",
+      "relationships" : [ {
+        "id" : "58",
+        "tags" : "Relationship",
+        "sourceId" : "3",
+        "destinationId" : "1",
+        "description" : "Push Notifications"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System,Distribution",
+      "properties" : {
+        "structurizr.dsl.identifier" : "appcenter"
+      },
+      "name" : "App Center",
+      "relationships" : [ {
+        "id" : "59",
+        "tags" : "Relationship",
+        "sourceId" : "4",
+        "destinationId" : "1",
+        "description" : "Delivers JS updates"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System,Distribution",
+      "properties" : {
+        "structurizr.dsl.identifier" : "appstore"
+      },
+      "name" : "Apple AppStore",
+      "relationships" : [ {
+        "id" : "57",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "1",
+        "description" : "Push Notifications"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemLandscapeViews" : [ {
+      "key" : "SystemLandscape",
+      "order" : 1,
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 4766,
+        "height" : 2154
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1733,
+        "y" : 1529
+      }, {
+        "id" : "2",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "3",
+        "x" : 958,
+        "y" : 929
+      }, {
+        "id" : "4",
+        "x" : 1708,
+        "y" : 929
+      }, {
+        "id" : "5",
+        "x" : 2458,
+        "y" : 929
+      }, {
+        "id" : "6",
+        "x" : 3208,
+        "y" : 929
+      }, {
+        "id" : "7",
+        "x" : 3958,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 2458,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 4558,
+          "y" : 1229
+        }, {
+          "x" : 4558,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "60"
+      }, {
+        "id" : "36"
+      }, {
+        "id" : "52"
+      }, {
+        "id" : "42"
+      }, {
+        "id" : "45"
+      }, {
+        "id" : "57"
+      }, {
+        "id" : "47"
+      }, {
+        "id" : "58"
+      }, {
+        "id" : "59"
+      }, {
+        "id" : "39",
+        "vertices" : [ {
+          "x" : 808,
+          "y" : 929
+        } ]
+      } ]
+    } ],
+    "systemContextViews" : [ {
+      "key" : "S3-SystemContext",
+      "order" : 6,
+      "softwareSystemId" : "7",
+      "paperSize" : "A6_Portrait",
+      "dimensions" : {
+        "width" : 1108,
+        "height" : 1454
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "7",
+        "x" : 329,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 329,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "47"
+      } ]
+    }, {
+      "key" : "GooglePlay-SystemContext",
+      "order" : 5,
+      "softwareSystemId" : "3",
+      "paperSize" : "A5_Portrait",
+      "dimensions" : {
+        "width" : 1312,
+        "height" : 2154
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 571,
+        "y" : 1529
+      }, {
+        "id" : "3",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 550,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 808,
+          "y" : 1229
+        }, {
+          "x" : 808,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "36"
+      }, {
+        "id" : "58"
+      } ]
+    }, {
+      "key" : "AppleAppStore-SystemContext",
+      "order" : 4,
+      "softwareSystemId" : "2",
+      "paperSize" : "A5_Portrait",
+      "dimensions" : {
+        "width" : 1312,
+        "height" : 2154
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 571,
+        "y" : 1529
+      }, {
+        "id" : "2",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 550,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 808,
+          "y" : 1229
+        }, {
+          "x" : 808,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "57"
+      }, {
+        "id" : "39"
+      } ]
+    }, {
+      "key" : "recario-SystemContext",
+      "order" : 8,
+      "softwareSystemId" : "8",
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 4766,
+        "height" : 2154
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1733,
+        "y" : 1529
+      }, {
+        "id" : "2",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "3",
+        "x" : 958,
+        "y" : 929
+      }, {
+        "id" : "4",
+        "x" : 1708,
+        "y" : 929
+      }, {
+        "id" : "5",
+        "x" : 2458,
+        "y" : 929
+      }, {
+        "id" : "6",
+        "x" : 3208,
+        "y" : 929
+      }, {
+        "id" : "7",
+        "x" : 3958,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 2458,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 4558,
+          "y" : 1229
+        }, {
+          "x" : 4558,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "60"
+      }, {
+        "id" : "36"
+      }, {
+        "id" : "52"
+      }, {
+        "id" : "42"
+      }, {
+        "id" : "45"
+      }, {
+        "id" : "57"
+      }, {
+        "id" : "47"
+      }, {
+        "id" : "58"
+      }, {
+        "id" : "59"
+      }, {
+        "id" : "39",
+        "vertices" : [ {
+          "x" : 808,
+          "y" : 929
+        } ]
+      } ]
+    }, {
+      "key" : "3rdparty-SystemContext",
+      "order" : 2,
+      "softwareSystemId" : "5",
+      "dimensions" : {
+        "width" : 890,
+        "height" : 1320
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "5",
+        "x" : 220,
+        "y" : 820
+      }, {
+        "id" : "8",
+        "x" : 220,
+        "y" : 220
+      } ],
+      "relationships" : [ {
+        "id" : "45"
+      } ]
+    }, {
+      "key" : "AppCenter-SystemContext",
+      "order" : 3,
+      "softwareSystemId" : "4",
+      "paperSize" : "A5_Portrait",
+      "dimensions" : {
+        "width" : 1312,
+        "height" : 2154
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 571,
+        "y" : 1529
+      }, {
+        "id" : "4",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 550,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 808,
+          "y" : 1229
+        }, {
+          "x" : 808,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "42"
+      }, {
+        "id" : "59"
+      } ]
+    }, {
+      "key" : "SMSProvider-SystemContext",
+      "order" : 7,
+      "softwareSystemId" : "6",
+      "paperSize" : "A5_Portrait",
+      "dimensions" : {
+        "width" : 1312,
+        "height" : 2154
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 571,
+        "y" : 1529
+      }, {
+        "id" : "6",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "8",
+        "x" : 550,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "27",
+        "vertices" : [ {
+          "x" : 808,
+          "y" : 1229
+        }, {
+          "x" : 808,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "60"
+      }, {
+        "id" : "52"
+      } ]
+    } ],
+    "containerViews" : [ {
+      "key" : "recario-Container",
+      "order" : 9,
+      "softwareSystemId" : "8",
+      "paperSize" : "A1_Landscape",
+      "dimensions" : {
+        "width" : 7475,
+        "height" : 2754
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "13",
+        "x" : 3817,
+        "y" : 929
+      }, {
+        "id" : "24",
+        "x" : 5317,
+        "y" : 1529
+      }, {
+        "id" : "25",
+        "x" : 4567,
+        "y" : 1529
+      }, {
+        "id" : "18",
+        "x" : 5317,
+        "y" : 929
+      }, {
+        "id" : "1",
+        "x" : 1592,
+        "y" : 2129
+      }, {
+        "id" : "2",
+        "x" : 1567,
+        "y" : 1529
+      }, {
+        "id" : "3",
+        "x" : 2317,
+        "y" : 1529
+      }, {
+        "id" : "4",
+        "x" : 208,
+        "y" : 929
+      }, {
+        "id" : "5",
+        "x" : 6817,
+        "y" : 1529
+      }, {
+        "id" : "6",
+        "x" : 3067,
+        "y" : 1529
+      }, {
+        "id" : "7",
+        "x" : 6067,
+        "y" : 1529
+      }, {
+        "id" : "9",
+        "x" : 3817,
+        "y" : 329
+      }, {
+        "id" : "20",
+        "x" : 3817,
+        "y" : 1529
+      } ],
+      "relationships" : [ {
+        "id" : "50"
+      }, {
+        "id" : "60",
+        "vertices" : [ {
+          "x" : 2917,
+          "y" : 1933
+        } ]
+      }, {
+        "id" : "51"
+      }, {
+        "id" : "41",
+        "vertices" : [ {
+          "x" : 883,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "54",
+        "vertices" : [ {
+          "x" : 2167,
+          "y" : 1529
+        } ]
+      }, {
+        "id" : "43"
+      }, {
+        "id" : "28"
+      }, {
+        "id" : "26",
+        "vertices" : [ {
+          "x" : 1417,
+          "y" : 1933
+        }, {
+          "x" : 1417,
+          "y" : 1529
+        }, {
+          "x" : 2492,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "35"
+      }, {
+        "id" : "44"
+      }, {
+        "id" : "56"
+      }, {
+        "id" : "46",
+        "vertices" : [ {
+          "x" : 5946,
+          "y" : 1529
+        } ]
+      }, {
+        "id" : "57"
+      }, {
+        "id" : "58"
+      }, {
+        "id" : "48"
+      }, {
+        "id" : "59",
+        "vertices" : [ {
+          "x" : 883,
+          "y" : 1933
+        } ]
+      }, {
+        "id" : "49"
+      }, {
+        "id" : "38",
+        "vertices" : [ {
+          "x" : 3042,
+          "y" : 929
+        } ]
+      } ]
+    } ],
+    "componentViews" : [ {
+      "key" : "recario-Carbo-Component",
+      "order" : 11,
+      "paperSize" : "A3_Landscape",
+      "dimensions" : {
+        "width" : 3637,
+        "height" : 1916
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "containerId" : "13",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "2",
+        "x" : 208,
+        "y" : 1408
+      }, {
+        "id" : "3",
+        "x" : 2217,
+        "y" : 1408
+      }, {
+        "id" : "14",
+        "x" : 2800,
+        "y" : 808
+      }, {
+        "id" : "15",
+        "x" : 2050,
+        "y" : 808
+      }, {
+        "id" : "16",
+        "x" : 1300,
+        "y" : 808
+      }, {
+        "id" : "17",
+        "x" : 550,
+        "y" : 808
+      }, {
+        "id" : "9",
+        "x" : 1300,
+        "y" : 208
+      } ],
+      "relationships" : [ {
+        "id" : "35",
+        "vertices" : [ {
+          "x" : 3429,
+          "y" : 704
+        }, {
+          "x" : 3429,
+          "y" : 1212
+        } ]
+      }, {
+        "id" : "53"
+      }, {
+        "id" : "55",
+        "vertices" : [ {
+          "x" : 1150,
+          "y" : 1212
+        } ]
+      }, {
+        "id" : "31"
+      }, {
+        "id" : "38",
+        "vertices" : [ {
+          "x" : 371,
+          "y" : 704
+        }, {
+          "x" : 371,
+          "y" : 1212
+        } ]
+      } ]
+    }, {
+      "key" : "recario-PostgreSQL-Component",
+      "order" : 13,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 2608,
+        "height" : 958
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "containerId" : "20",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "22",
+        "x" : 1079,
+        "y" : 329
+      }, {
+        "id" : "23",
+        "x" : 329,
+        "y" : 329
+      }, {
+        "id" : "21",
+        "x" : 1829,
+        "y" : 329
+      } ]
+    }, {
+      "key" : "recario-Ferrum-Component",
+      "order" : 12,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 2737,
+        "height" : 2054
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "containerId" : "9",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "11",
+        "x" : 475,
+        "y" : 329
+      }, {
+        "id" : "12",
+        "x" : 1975,
+        "y" : 329
+      }, {
+        "id" : "13",
+        "x" : 583,
+        "y" : 929
+      }, {
+        "id" : "2",
+        "x" : 208,
+        "y" : 1529
+      }, {
+        "id" : "3",
+        "x" : 1108,
+        "y" : 1529
+      }, {
+        "id" : "4",
+        "x" : 1975,
+        "y" : 929
+      }, {
+        "id" : "10",
+        "x" : 1225,
+        "y" : 329
+      } ],
+      "relationships" : [ {
+        "id" : "37",
+        "vertices" : [ {
+          "x" : 433,
+          "y" : 929
+        } ]
+      }, {
+        "id" : "40"
+      }, {
+        "id" : "34"
+      }, {
+        "id" : "33"
+      }, {
+        "id" : "54"
+      }, {
+        "id" : "56"
+      }, {
+        "id" : "30"
+      } ]
+    }, {
+      "key" : "recario-Borax-Component",
+      "order" : 10,
+      "paperSize" : "A6_Landscape",
+      "dimensions" : {
+        "width" : 1108,
+        "height" : 958
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "containerId" : "18",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "19",
+        "x" : 329,
+        "y" : 329
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : {
+        "elements" : [ {
+          "tag" : "Software System",
+          "background" : "#1168bd",
+          "color" : "#ffffff"
+        }, {
+          "tag" : "Support",
+          "background" : "#aaaaaa"
+        }, {
+          "tag" : "Database",
+          "shape" : "Cylinder"
+        }, {
+          "tag" : "Distribution",
+          "background" : "#00935b",
+          "shape" : "Folder"
+        }, {
+          "tag" : "Person",
+          "background" : "#08427b",
+          "color" : "#ffffff",
+          "shape" : "Person"
+        } ]
+      },
+      "terminology" : { },
+      "metadataSymbols" : "SquareBrackets",
+      "lastSavedView" : "3rdparty-SystemContext"
+    }
+  }
+}
